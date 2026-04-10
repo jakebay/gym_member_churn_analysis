@@ -22,4 +22,4 @@ The dataset combines active and lost members into a single structured dataset fo
   ![Dashboard](Gym_member_dashboard.pdf)
 
   ## Project Files
-  - `data/gym_membership_churn.csv` -> Cleaned dataset for analysis
+  - Data: `gym_membership_churn.csv` -> Cleaned dataset for analysis
